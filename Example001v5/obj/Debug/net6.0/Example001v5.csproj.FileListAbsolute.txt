@@ -1,0 +1,15 @@
+C:\Users\DimaPC\Desktop\lek2\Example001v5\bin\Debug\net6.0\Example001v5.exe
+C:\Users\DimaPC\Desktop\lek2\Example001v5\bin\Debug\net6.0\Example001v5.deps.json
+C:\Users\DimaPC\Desktop\lek2\Example001v5\bin\Debug\net6.0\Example001v5.runtimeconfig.json
+C:\Users\DimaPC\Desktop\lek2\Example001v5\bin\Debug\net6.0\Example001v5.dll
+C:\Users\DimaPC\Desktop\lek2\Example001v5\bin\Debug\net6.0\ref\Example001v5.dll
+C:\Users\DimaPC\Desktop\lek2\Example001v5\bin\Debug\net6.0\Example001v5.pdb
+C:\Users\DimaPC\Desktop\lek2\Example001v5\obj\Debug\net6.0\Example001v5.csproj.AssemblyReference.cache
+C:\Users\DimaPC\Desktop\lek2\Example001v5\obj\Debug\net6.0\Example001v5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DimaPC\Desktop\lek2\Example001v5\obj\Debug\net6.0\Example001v5.AssemblyInfoInputs.cache
+C:\Users\DimaPC\Desktop\lek2\Example001v5\obj\Debug\net6.0\Example001v5.AssemblyInfo.cs
+C:\Users\DimaPC\Desktop\lek2\Example001v5\obj\Debug\net6.0\Example001v5.csproj.CoreCompileInputs.cache
+C:\Users\DimaPC\Desktop\lek2\Example001v5\obj\Debug\net6.0\Example001v5.dll
+C:\Users\DimaPC\Desktop\lek2\Example001v5\obj\Debug\net6.0\ref\Example001v5.dll
+C:\Users\DimaPC\Desktop\lek2\Example001v5\obj\Debug\net6.0\Example001v5.pdb
+C:\Users\DimaPC\Desktop\lek2\Example001v5\obj\Debug\net6.0\Example001v5.genruntimeconfig.cache
