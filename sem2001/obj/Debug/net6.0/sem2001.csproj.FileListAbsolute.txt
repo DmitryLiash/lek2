@@ -1,0 +1,15 @@
+C:\Users\DimaPC\Desktop\lek2\sem2001\obj\Debug\net6.0\sem2001.csproj.AssemblyReference.cache
+C:\Users\DimaPC\Desktop\lek2\sem2001\obj\Debug\net6.0\sem2001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DimaPC\Desktop\lek2\sem2001\obj\Debug\net6.0\sem2001.AssemblyInfoInputs.cache
+C:\Users\DimaPC\Desktop\lek2\sem2001\obj\Debug\net6.0\sem2001.AssemblyInfo.cs
+C:\Users\DimaPC\Desktop\lek2\sem2001\obj\Debug\net6.0\sem2001.csproj.CoreCompileInputs.cache
+C:\Users\DimaPC\Desktop\lek2\sem2001\bin\Debug\net6.0\sem2001.exe
+C:\Users\DimaPC\Desktop\lek2\sem2001\bin\Debug\net6.0\sem2001.deps.json
+C:\Users\DimaPC\Desktop\lek2\sem2001\bin\Debug\net6.0\sem2001.runtimeconfig.json
+C:\Users\DimaPC\Desktop\lek2\sem2001\bin\Debug\net6.0\sem2001.dll
+C:\Users\DimaPC\Desktop\lek2\sem2001\bin\Debug\net6.0\ref\sem2001.dll
+C:\Users\DimaPC\Desktop\lek2\sem2001\bin\Debug\net6.0\sem2001.pdb
+C:\Users\DimaPC\Desktop\lek2\sem2001\obj\Debug\net6.0\sem2001.dll
+C:\Users\DimaPC\Desktop\lek2\sem2001\obj\Debug\net6.0\ref\sem2001.dll
+C:\Users\DimaPC\Desktop\lek2\sem2001\obj\Debug\net6.0\sem2001.pdb
+C:\Users\DimaPC\Desktop\lek2\sem2001\obj\Debug\net6.0\sem2001.genruntimeconfig.cache
